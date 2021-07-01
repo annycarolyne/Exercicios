@@ -79,18 +79,27 @@ p{
 }
 
 .coluna{
-    width: 8%;
+    width: 10%;
     text-align: center;
 }
 
+th{
+    background-color: #591902;
+    color: white;
+}
 
+td{
+    background-color: #f29d35;
+}
 
+table{
+    margin-top: 1%;
+}
 
-
-
-
-
-
+main{
+    margin-left: 0;
+    width: 98%;
+}
 
 #copy{
     margin-left: 0;
